@@ -1,0 +1,19 @@
+{
+  "name": "test-electron",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error:no test specified \" &&exit 1",
+    "dev":"electron ."
+  },
+  "author": "fengsheng",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "devDependencies": {
+    "electron":"^28.1.4"
+  }
+}
